@@ -1,0 +1,606 @@
+.BISE-sukkur-landing {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.BISE-sukkur-landing .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 587px;
+  height: 1779px;
+  position: relative;
+}
+
+.BISE-sukkur-landing .overlap {
+  position: absolute;
+  width: 587px;
+  height: 60px;
+  top: 0;
+  left: 0;
+  background-color: #000000;
+}
+
+.BISE-sukkur-landing .text-wrapper {
+  position: absolute;
+  top: 28px;
+  left: 355px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.BISE-sukkur-landing .text-wrapper-2 {
+  position: absolute;
+  width: 51px;
+  top: 28px;
+  left: 242px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.BISE-sukkur-landing .text-wrapper-3 {
+  position: absolute;
+  width: 44px;
+  top: 28px;
+  left: 302px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.BISE-sukkur-landing .image {
+  width: 58px;
+  height: 43px;
+  top: 9px;
+  left: 44px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.BISE-sukkur-landing .text-wrapper-4 {
+  position: absolute;
+  width: 44px;
+  top: 26px;
+  left: 189px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.BISE-sukkur-landing .overlap-group {
+  position: absolute;
+  width: 111px;
+  height: 23px;
+  top: 22px;
+  left: 452px;
+  background-color: #b4b7bb;
+  border-radius: 10px;
+}
+
+.BISE-sukkur-landing .text-wrapper-5 {
+  position: absolute;
+  top: 1px;
+  left: 36px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.BISE-sukkur-landing .overlap-2 {
+  position: absolute;
+  width: 587px;
+  height: 588px;
+  top: 337px;
+  left: 0;
+}
+
+.BISE-sukkur-landing .group {
+  position: absolute;
+  width: 587px;
+  height: 246px;
+  top: 0;
+  left: 0;
+  background-image: url(./img/rectangle-2.svg);
+  background-size: 100% 100%;
+}
+
+.BISE-sukkur-landing .group-2 {
+  position: relative;
+  width: 509px;
+  height: 191px;
+  top: 22px;
+  left: 21px;
+}
+
+.BISE-sukkur-landing .p {
+  position: absolute;
+  top: 4px;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.BISE-sukkur-landing .text-wrapper-6 {
+  position: absolute;
+  width: 258px;
+  top: 57px;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 13px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.BISE-sukkur-landing .img {
+  width: 207px;
+  height: 191px;
+  top: 0;
+  left: 298px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.BISE-sukkur-landing .rectangle {
+  position: absolute;
+  width: 587px;
+  height: 353px;
+  top: 235px;
+  left: 0;
+  background-color: #b5b7bb;
+}
+
+.BISE-sukkur-landing .text-wrapper-7 {
+  position: absolute;
+  top: 263px;
+  left: 32px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.BISE-sukkur-landing .group-3 {
+  position: absolute;
+  width: 124px;
+  height: 223px;
+  top: 318px;
+  left: 42px;
+}
+
+.BISE-sukkur-landing .text-wrapper-8 {
+  position: absolute;
+  width: 117px;
+  top: 127px;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.BISE-sukkur-landing .image-2 {
+  width: 114px;
+  height: 121px;
+  top: 0;
+  left: 0;
+  position: absolute;
+  object-fit: cover;
+}
+
+.BISE-sukkur-landing .div-2 {
+  position: absolute;
+  width: 122px;
+  height: 25px;
+  top: 198px;
+  left: 0;
+  background-color: #d9d9d9;
+  border-radius: 10px;
+}
+
+.BISE-sukkur-landing .group-4 {
+  position: absolute;
+  width: 314px;
+  height: 223px;
+  top: 318px;
+  left: 218px;
+}
+
+.BISE-sukkur-landing .text-wrapper-9 {
+  position: absolute;
+  top: 3px;
+  left: 30px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.BISE-sukkur-landing .overlap-group-2 {
+  position: absolute;
+  width: 124px;
+  height: 223px;
+  top: 0;
+  left: 186px;
+}
+
+.BISE-sukkur-landing .group-5 {
+  position: absolute;
+  width: 124px;
+  height: 223px;
+  top: 0;
+  left: 0;
+}
+
+.BISE-sukkur-landing .text-wrapper-10 {
+  top: 200px;
+  left: 29px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.BISE-sukkur-landing .text-wrapper-11 {
+  top: 517px;
+  left: 70px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.BISE-sukkur-landing .overlap-3 {
+  position: absolute;
+  width: 587px;
+  height: 277px;
+  top: 60px;
+  left: 0;
+}
+
+.BISE-sukkur-landing .group-6 {
+  position: absolute;
+  width: 20px;
+  height: 30px;
+  top: 108px;
+  left: 12px;
+}
+
+.BISE-sukkur-landing .group-7 {
+  position: absolute;
+  width: 587px;
+  height: 277px;
+  top: 0;
+  left: 0;
+  background-image: url(./img/image-3.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.BISE-sukkur-landing .vector {
+  position: absolute;
+  width: 20px;
+  height: 36px;
+  top: 130px;
+  left: 22px;
+}
+
+.BISE-sukkur-landing .group-8 {
+  position: absolute;
+  width: 162px;
+  height: 6px;
+  top: 238px;
+  left: 212px;
+}
+
+.BISE-sukkur-landing .rectangle-2 {
+  position: absolute;
+  width: 49px;
+  height: 6px;
+  top: 0;
+  left: 56px;
+  background-color: #ffffff;
+  border-radius: 10px;
+}
+
+.BISE-sukkur-landing .rectangle-3 {
+  position: absolute;
+  width: 49px;
+  height: 6px;
+  top: 0;
+  left: 113px;
+  background-color: #ffffff;
+  border-radius: 10px;
+}
+
+.BISE-sukkur-landing .rectangle-4 {
+  position: absolute;
+  width: 49px;
+  height: 6px;
+  top: 0;
+  left: 0;
+  background-color: #ffffff;
+  border-radius: 10px;
+}
+
+.BISE-sukkur-landing .vector-2 {
+  position: absolute;
+  width: 20px;
+  height: 36px;
+  top: 130px;
+  left: 544px;
+}
+
+.BISE-sukkur-landing .overlap-4 {
+  position: absolute;
+  width: 587px;
+  height: 277px;
+  top: 925px;
+  left: 0;
+  background-color: #000000;
+}
+
+.BISE-sukkur-landing .text-wrapper-12 {
+  position: absolute;
+  top: 24px;
+  left: 125px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.BISE-sukkur-landing .group-9 {
+  position: absolute;
+  width: 392px;
+  height: 24px;
+  top: 80px;
+  left: 32px;
+}
+
+.BISE-sukkur-landing .text-wrapper-13 {
+  position: absolute;
+  top: 4px;
+  left: 48px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.BISE-sukkur-landing .mdi-announcement {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  top: 0;
+  left: 0;
+}
+
+.BISE-sukkur-landing .group-10 {
+  position: absolute;
+  width: 396px;
+  height: 95px;
+  top: 116px;
+  left: 32px;
+}
+
+.BISE-sukkur-landing .group-11 {
+  width: 394px;
+  height: 59px;
+  top: 36px;
+  position: absolute;
+  left: 2px;
+}
+
+.BISE-sukkur-landing .group-12 {
+  width: 392px;
+  height: 24px;
+  top: 35px;
+  position: absolute;
+  left: 2px;
+}
+
+.BISE-sukkur-landing .text-wrapper-14 {
+  position: absolute;
+  top: 1241px;
+  left: 48px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.BISE-sukkur-landing .overlap-5 {
+  position: absolute;
+  width: 416px;
+  height: 118px;
+  top: 1299px;
+  left: 46px;
+}
+
+.BISE-sukkur-landing .overlap-wrapper {
+  position: absolute;
+  width: 176px;
+  height: 30px;
+  top: 0;
+  left: 0;
+}
+
+.BISE-sukkur-landing .div-wrapper {
+  position: relative;
+  width: 174px;
+  height: 30px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  border: 1px solid;
+  border-color: #000000;
+}
+
+.BISE-sukkur-landing .text-wrapper-15 {
+  position: absolute;
+  width: 93px;
+  top: 8px;
+  left: 23px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #808080;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.BISE-sukkur-landing .overlap-group-wrapper {
+  position: absolute;
+  width: 176px;
+  height: 30px;
+  top: 88px;
+  left: 240px;
+}
+
+.BISE-sukkur-landing .group-13 {
+  position: absolute;
+  width: 416px;
+  height: 113px;
+  top: 0;
+  left: 0;
+}
+
+.BISE-sukkur-landing .overlap-6 {
+  position: absolute;
+  width: 174px;
+  height: 30px;
+  top: 0;
+  left: 240px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  border: 1px solid;
+  border-color: #000000;
+}
+
+.BISE-sukkur-landing .group-14 {
+  position: absolute;
+  width: 176px;
+  height: 30px;
+  top: 83px;
+  left: 0;
+}
+
+.BISE-sukkur-landing .overlap-7 {
+  position: absolute;
+  width: 127px;
+  height: 37px;
+  top: 1638px;
+  left: 333px;
+  background-color: #008000;
+  border-radius: 10px;
+}
+
+.BISE-sukkur-landing .text-wrapper-16 {
+  position: absolute;
+  top: 8px;
+  left: 33px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.BISE-sukkur-landing .overlap-8 {
+  position: absolute;
+  width: 594px;
+  height: 64px;
+  top: 1715px;
+  left: -7px;
+  background-color: #000000;
+}
+
+.BISE-sukkur-landing .text-wrapper-17 {
+  position: absolute;
+  top: 21px;
+  left: 158px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.BISE-sukkur-landing .overlap-9 {
+  position: absolute;
+  width: 419px;
+  height: 155px;
+  top: 1452px;
+  left: 43px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  border: 1px solid;
+  border-color: #000000;
+}
+
+.BISE-sukkur-landing .text-wrapper-18 {
+  position: absolute;
+  width: 128px;
+  top: 18px;
+  left: 20px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #808080;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
