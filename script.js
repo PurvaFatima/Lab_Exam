@@ -1,14 +1,21 @@
-// script.js
+// Function to handle form submission
+function handleSubmit(event) {
+  event.preventDefault(); // Prevent the form from submitting and refreshing the page
 
-// JavaScript to change the text of the Submit button
-const submitButton = document.getElementById("submitButton");
-let isClicked = false;
+  // Get form input values
+  const fullName = document.getElementById("fullName").value;
+  const email = document.getElementById("email").value;
+  const phone = document.getElementById("phone").value;
+  const address = document.getElementById("address").value;
 
-submitButton.addEventListener("click", function() {
-  if (isClicked) {
-    submitButton.textContent = "Clicked!";
-  } else {
-    submitButton.textContent = "Submitted!";
-  }
-  isClicked = !isClicked;
-});
+  // Display the submitted information in the console
+  console.log("Submitted Information:");
+  console.log("Full Name: " + fullName);
+  console.log("Email: " + email);
+  console.log("Phone: " + phone);
+  console.log("Address: " + address);
+}
+
+// Add an event listener to the form
+const contactForm = document.getElementById("contactForm");
+contactForm.addEventListener("submit", handleSubmit);
